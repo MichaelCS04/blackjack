@@ -1,1 +1,1 @@
-# blackjack
+# TechWise Blackjack project
